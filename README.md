@@ -18,4 +18,4 @@ Estou criando um programa para ajudar as pessoas a gerenciarem seus pontos e mil
 
 🌐 Onde me encontrar
 LinkedIn: https://www.linkedin.com/in/al4no/
-Twitter: @AL4N0AOS
+Twitter: https://x.com/AL4N0AOS
