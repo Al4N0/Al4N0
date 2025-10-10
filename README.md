@@ -2,18 +2,15 @@
   <img src="URL_DA_SUA_IMAGEM_DE_BANNER_AQUI" alt="Banner do Perfil" width="800"/>
 </p>
 
-<h1 align="center">Olá, eu sou o [Seu Nome] 👋</h1>
+<h1 align="center">Olá, eu sou o Al4N0 👋</h1>
 <h3 align="center">Um desenvolvedor apaixonado por criar soluções eficientes e elegantes.</h3>
 
 ---
 
 <p align="left"> 
-  🔭 Atualmente estou trabalhando em <strong>[Nome do Projeto ou Empresa]</strong>.<br>
-  🌱 Estou sempre aprendendo sobre <strong>[Tecnologia que você está estudando]</strong>.<br>
-  👯 Procuro colaborar em <strong>[Tipo de projeto que te interessa]</strong>.<br>
+  🔭 Atualmente estou trabalhando na <strong>Miré, em soluções com Delphi</strong>.<br>
+  🌱 Estou sempre aprendendo sobre <strong>Delphi e Python</strong>.<br>
   💬 Me pergunte sobre <strong>Delphi, FMX, MySQL e desenvolvimento de software</strong>.<br>
-  📫 Como me encontrar: <strong>[seu_email@dominio.com]</strong><br>
-  ⚡ Fato curioso: <strong>[Algo interessante sobre você, um hobby, etc.]</strong>
 </p>
 
 ---
@@ -38,9 +35,9 @@
 
 <h3 align="left">Minhas Estatísticas no GitHub:</h3>
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[SEU_USUARIO_AQUI]&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Al4N0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU_USUARIO_AQUI]&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Al4N0&layout=compact&langs_count=7&theme=dracula"/>
 </p>
 
 ---
