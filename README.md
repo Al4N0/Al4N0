@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="URL_DA_SUA_IMAGEM_DE_BANNER_AQUI" alt="Banner do Perfil" width="800"/>
+  <img src="https://raw.githubusercontent.com/Al4N0/Al4N0/refs/heads/main/img.png" alt="Banner do Perfil" width="800"/>
 </p>
 
 <h1 align="center">Olá, eu sou o Al4N0 👋</h1>
