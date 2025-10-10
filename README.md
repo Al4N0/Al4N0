@@ -44,7 +44,7 @@
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/[SEU_LINKEDIN_AQUI]" target="blank">
+  <a href="https://www.linkedin.com/in/al4no/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/linked-in-alt.svg" alt="Seu LinkedIn" height="30" width="40" />
   </a>
   </p>
